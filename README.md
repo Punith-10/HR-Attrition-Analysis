@@ -7,7 +7,7 @@ End-to-end HR Analytics project analyzing employee attrition and business retent
 ---
 
 ## 📊 Overall Attrition Rate
-![Attrition Rate](attrition rate.png)
+![Attrition Rate](attrition-rate.png)
 
 ---
 
@@ -17,7 +17,7 @@ End-to-end HR Analytics project analyzing employee attrition and business retent
 ---
 
 ## 🔥 Correlation Heatmap
-![Heatmap](heatmap corr.png)
+![Heatmap](heatmap-corr.png)
 
 ---
 
