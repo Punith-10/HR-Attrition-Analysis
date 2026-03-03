@@ -1,10 +1,25 @@
 # HR-Attrition-Analysis
 End-to-end HR Analytics project analyzing employee attrition and business retention strategies.
-## attrition rate 
-attrition.png
-##department wise attrtion rate
-dept-attr.png
-##heatmap for corelation
-heatmap corr.png
-## salary wise attrition
-salary-attr.png
+# 📊 HR Attrition Analysis
+
+End-to-end HR Analytics project analyzing employee attrition and business retention strategies.
+
+---
+
+## 📊 Overall Attrition Rate
+![Attrition Rate](attrition rate.png)
+
+---
+
+## 🏢 Department-wise Attrition
+![Department Attrition](dept-attr.png)
+
+---
+
+## 🔥 Correlation Heatmap
+![Heatmap](heatmap corr.png)
+
+---
+
+## 💰 Salary-wise Attrition
+![Salary Attrition](salary-attr.png)
